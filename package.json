@@ -1,7 +1,7 @@
 {
-  "name": "Weather app",
+  "name": "weather_app",
   "version": "1.0.0",
-  "description": "Weather app",
+  "description": "weather_app",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
